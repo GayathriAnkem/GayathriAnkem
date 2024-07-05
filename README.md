@@ -1,5 +1,4 @@
 [dm_project.pdf](https://github.com/user-attachments/files/16111565/dm_project.pdf)
-- 👋 Hi, I’m @GayathriAnkem
 
 <!---
 GayathriAnkem/GayathriAnkem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
